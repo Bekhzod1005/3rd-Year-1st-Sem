@@ -18,7 +18,7 @@
       "parentId": "d8241bf4-4c5e-4f0f-9fe1-37cde8fee18e",
       "tags": [],
       "createdAt": 1789406821632,
-      "modifiedAt": 1789408928572
+      "modifiedAt": 1789409210807
     },
     "5b71ce6d-2c3e-40f8-addd-618d8baa2388": {
       "id": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
@@ -166,6 +166,25 @@
         "sourceRevision": "65960ec3072ee62b5dc2d3b08ef43b3d9acc5e11bffff20ffa9d074c14cec595",
         "capturedAt": 1789409095409,
         "byteLength": 25148
+      }
+    },
+    "0e546f72-3c04-486f-859f-086c94bb511f": {
+      "id": "0e546f72-3c04-486f-859f-086c94bb511f",
+      "name": "Class 2 new 2026-09-14T18:06:27.849Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "7caeac36-f1a2-4377-9d5a-2642b6792e70",
+      "tags": [],
+      "createdAt": 1789409187868,
+      "modifiedAt": 1789409210807,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "adea9aa4-3df3-413b-a03c-880bf82d2acc",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Class 2 new",
+        "sourceRevision": "c7787a95b7fda276f6695d6fd1162c64f1bca6d0fe130365db28164b0055310f",
+        "capturedAt": 1789409187849,
+        "byteLength": 1039043
       }
     }
   },
@@ -330,32 +349,32 @@
   "tagRegistry": [],
   "penPresets": [
     {
+      "id": "870841d1-6ca6-4385-b652-a9c291380ee0",
       "tool": "highlighter",
       "color": "#facc15",
       "size": 26,
-      "inWheel": true,
-      "id": "870841d1-6ca6-4385-b652-a9c291380ee0"
+      "inWheel": true
     },
     {
+      "id": "810625a0-278a-4850-8985-5a2b9aefe4be",
       "tool": "pen",
       "color": "#3b82f6",
       "size": 4,
-      "inWheel": true,
-      "id": "810625a0-278a-4850-8985-5a2b9aefe4be"
+      "inWheel": true
     },
     {
+      "id": "f3baa2b8-ba0c-4b2c-a18f-c2cb536913d0",
       "tool": "highlighter",
       "color": "#e10c0c",
       "size": 18,
-      "inWheel": true,
-      "id": "f3baa2b8-ba0c-4b2c-a18f-c2cb536913d0"
+      "inWheel": true
     },
     {
+      "id": "8bf81ff1-5866-41d7-958d-5450058f95e6",
       "tool": "pen",
       "color": "#191c1e",
       "size": 3,
-      "inWheel": false,
-      "id": "8bf81ff1-5866-41d7-958d-5450058f95e6"
+      "inWheel": false
     }
   ]
 }
