@@ -18,7 +18,7 @@
       "parentId": "d8241bf4-4c5e-4f0f-9fe1-37cde8fee18e",
       "tags": [],
       "createdAt": 1789406821632,
-      "modifiedAt": 1789407549486
+      "modifiedAt": 1789407578539
     },
     "5b71ce6d-2c3e-40f8-addd-618d8baa2388": {
       "id": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
@@ -110,5 +110,20 @@
     "folder": []
   },
   "tagRegistry": [],
-  "penPresets": []
+  "penPresets": [
+    {
+      "tool": "highlighter",
+      "color": "#facc15",
+      "size": 26,
+      "inWheel": true,
+      "id": "870841d1-6ca6-4385-b652-a9c291380ee0"
+    },
+    {
+      "tool": "pen",
+      "color": "#3b82f6",
+      "size": 4,
+      "inWheel": true,
+      "id": "810625a0-278a-4850-8985-5a2b9aefe4be"
+    }
+  ]
 }
