@@ -330,25 +330,32 @@
   "tagRegistry": [],
   "penPresets": [
     {
-      "id": "870841d1-6ca6-4385-b652-a9c291380ee0",
       "tool": "highlighter",
       "color": "#facc15",
       "size": 26,
-      "inWheel": true
+      "inWheel": true,
+      "id": "870841d1-6ca6-4385-b652-a9c291380ee0"
     },
     {
-      "id": "810625a0-278a-4850-8985-5a2b9aefe4be",
       "tool": "pen",
       "color": "#3b82f6",
       "size": 4,
-      "inWheel": true
+      "inWheel": true,
+      "id": "810625a0-278a-4850-8985-5a2b9aefe4be"
     },
     {
-      "id": "f3baa2b8-ba0c-4b2c-a18f-c2cb536913d0",
       "tool": "highlighter",
       "color": "#e10c0c",
       "size": 18,
-      "inWheel": true
+      "inWheel": true,
+      "id": "f3baa2b8-ba0c-4b2c-a18f-c2cb536913d0"
+    },
+    {
+      "tool": "pen",
+      "color": "#191c1e",
+      "size": 3,
+      "inWheel": false,
+      "id": "8bf81ff1-5866-41d7-958d-5450058f95e6"
     }
   ]
 }
