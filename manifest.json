@@ -18,7 +18,7 @@
       "parentId": "d8241bf4-4c5e-4f0f-9fe1-37cde8fee18e",
       "tags": [],
       "createdAt": 1789406821632,
-      "modifiedAt": 1789407578539
+      "modifiedAt": 1789407608654
     },
     "5b71ce6d-2c3e-40f8-addd-618d8baa2388": {
       "id": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
@@ -105,7 +105,9 @@
   "linksBySource": {},
   "colors": {
     "pen": [],
-    "highlighter": [],
+    "highlighter": [
+      "#e10c0c"
+    ],
     "text": [],
     "folder": []
   },
