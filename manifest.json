@@ -1,6 +1,26 @@
 {
   "version": 3,
-  "nodes": {},
+  "nodes": {
+    "d8241bf4-4c5e-4f0f-9fe1-37cde8fee18e": {
+      "id": "d8241bf4-4c5e-4f0f-9fe1-37cde8fee18e",
+      "name": "Elec3105 - fields",
+      "type": "folder",
+      "parentId": null,
+      "tags": [],
+      "createdAt": 1789406801865,
+      "modifiedAt": 1789406808566
+    },
+    "adea9aa4-3df3-413b-a03c-880bf82d2acc": {
+      "id": "adea9aa4-3df3-413b-a03c-880bf82d2acc",
+      "name": "Class 2 new",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "d8241bf4-4c5e-4f0f-9fe1-37cde8fee18e",
+      "tags": [],
+      "createdAt": 1789406821632,
+      "modifiedAt": 1789406828615
+    }
+  },
   "linksBySource": {},
   "colors": {
     "pen": [],
