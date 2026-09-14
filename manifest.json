@@ -147,16 +147,109 @@
       "parentId": null,
       "tags": [],
       "createdAt": 1789409083403,
-      "modifiedAt": 1789409090579
+      "modifiedAt": 1789409120737
+    },
+    "defae97f-cc3f-414a-aa03-97053065705a": {
+      "id": "defae97f-cc3f-414a-aa03-97053065705a",
+      "name": "Introductory Nuclear Physics Krane - NOTES 2026-09-14T18:04:55.409Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "7caeac36-f1a2-4377-9d5a-2642b6792e70",
+      "tags": [],
+      "createdAt": 1789409095434,
+      "modifiedAt": 1789409120737,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "ce9f306e-b9b8-42dd-bd4e-1520de0a8a0a",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Introductory Nuclear Physics Krane - NOTES",
+        "sourceRevision": "65960ec3072ee62b5dc2d3b08ef43b3d9acc5e11bffff20ffa9d074c14cec595",
+        "capturedAt": 1789409095409,
+        "byteLength": 25148
+      }
     }
   },
   "linksBySource": {
     "ce9f306e-b9b8-42dd-bd4e-1520de0a8a0a": [
       {
+        "targetId": "ce9f306e-b9b8-42dd-bd4e-1520de0a8a0a",
+        "pageFrameId": null,
+        "title": "Introductory Nuclear Physics Krane - NOTES",
+        "snippet": "Subject: [[Introductory Nuclear Physics Krane - NOTES]]"
+      },
+      {
+        "targetId": "ce9f306e-b9b8-42dd-bd4e-1520de0a8a0a",
+        "pageFrameId": null,
+        "title": "Introductory Nuclear Physics Krane - NOTES",
+        "snippet": "PDF: [[Introductory Nuclear Physics Krane - NOTES]]"
+      },
+      {
         "targetId": null,
         "pageFrameId": null,
-        "title": "Nuclear Physics",
-        "snippet": "Subject: [[Nuclear Physics]]"
+        "title": "IntroductoryNuclearPhysicsKrane.pdf#page=13&selection=64,0,70,49|IntroductoryNuclearPhysicsKrane, p.13",
+        "snippet": "[!PDF|] [[IntroductoryNuclearPhysicsKrane.pdf#page=13&selection=64,0,70,49|IntroductoryNuclearPhysicsKrane, p.13]] > As a result, we must discuss nuclear physics in a..."
+      },
+      {
+        "targetId": null,
+        "pageFrameId": null,
+        "title": "Unifying Theory of Nuclear Physics",
+        "snippet": "#[[Unifying Theory of Nuclear Physics]]?"
+      },
+      {
+        "targetId": null,
+        "pageFrameId": null,
+        "title": "IntroductoryNuclearPhysicsKrane.pdf#page=18&selection=93,68,115,68&color=research|IntroductoryNuclearPhysicsKrane, p.18",
+        "snippet": "[!PDF|research] [[IntroductoryNuclearPhysicsKrane.pdf#page=18&selection=93,68,115,68&color=research|IntroductoryNuclearPhysicsKrane, p.18]] > Electromagnetic ( y ) decays of..."
+      },
+      {
+        "targetId": null,
+        "pageFrameId": null,
+        "title": "IntroductoryNuclearPhysicsKrane.pdf#page=20&selection=112,1,115,17&color=questionable|IntroductoryNuclearPhysicsKrane, p.20",
+        "snippet": "> [!PDF|questionable] [[IntroductoryNuclearPhysicsKrane.pdf#page=20&selection=112,1,115,17&color=questionable|IntroductoryNuclearPhysicsKrane, p.20]]"
+      },
+      {
+        "targetId": null,
+        "pageFrameId": null,
+        "title": "IntroductoryNuclearPhysicsKrane.pdf#page=22&selection=80,5,81,54|IntroductoryNuclearPhysicsKrane, p.22",
+        "snippet": "[!PDF|] [[IntroductoryNuclearPhysicsKrane.pdf#page=22&selection=80,5,81,54|IntroductoryNuclearPhysicsKrane, p.22]] > would simultaneously destroy our previous precise..."
+      },
+      {
+        "targetId": null,
+        "pageFrameId": null,
+        "title": "IntroductoryNuclearPhysicsKrane.pdf#page=22&selection=108,27,109,16|IntroductoryNuclearPhysicsKrane, p.22",
+        "snippet": "[!PDF|] [[IntroductoryNuclearPhysicsKrane.pdf#page=22&selection=108,27,109,16|IntroductoryNuclearPhysicsKrane, p.22]] > Whenever we use the term “particle” we really mean..."
+      },
+      {
+        "targetId": null,
+        "pageFrameId": null,
+        "title": "IntroductoryNuclearPhysicsKrane.pdf#page=22&selection=173,0,175,54|IntroductoryNuclearPhysicsKrane, p.22",
+        "snippet": "[!PDF|] [[IntroductoryNuclearPhysicsKrane.pdf#page=22&selection=108,27,109,16|IntroductoryNuclearPhysicsKrane, p.22]] > Whenever we use the term “particle” we really mean..."
+      },
+      {
+        "targetId": null,
+        "pageFrameId": null,
+        "title": "IntroductoryNuclearPhysicsKrane.pdf#page=3&selection=49,0,58,6|IntroductoryNuclearPhysicsKrane, p.3",
+        "snippet": "[!PDF|] [[IntroductoryNuclearPhysicsKrane.pdf#page=3&selection=49,0,58,6|IntroductoryNuclearPhysicsKrane, p.3]] > It is expected that students have a previous background in..."
+      },
+      {
+        "targetId": null,
+        "pageFrameId": null,
+        "title": "IntroductoryNuclearPhysicsKrane.pdf#page=17&selection=122,0,181,3|IntroductoryNuclearPhysicsKrane, p.17",
+        "snippet": "[!PDF|] [[IntroductoryNuclearPhysicsKrane.pdf#page=17&selection=122,0,181,3|IntroductoryNuclearPhysicsKrane, p.17]] > Physical Review, Section C (abbreviated Phys. Rev. C),..."
+      },
+      {
+        "targetId": null,
+        "pageFrameId": null,
+        "title": "IntroductoryNuclearPhysicsKrane.pdf#page=20&selection=146,0,146,41&color=questionable|IntroductoryNuclearPhysicsKrane, p.20",
+        "snippet": "[!PDF|questionable] [[IntroductoryNuclearPhysicsKrane.pdf#page=20&selection=146,0,146,41&color=questionable|IntroductoryNuclearPhysicsKrane, p.20]] > The analogy between..."
+      }
+    ],
+    "defae97f-cc3f-414a-aa03-97053065705a": [
+      {
+        "targetId": "ce9f306e-b9b8-42dd-bd4e-1520de0a8a0a",
+        "pageFrameId": null,
+        "title": "Introductory Nuclear Physics Krane - NOTES",
+        "snippet": "Subject: [[Introductory Nuclear Physics Krane - NOTES]]"
       },
       {
         "targetId": null,
