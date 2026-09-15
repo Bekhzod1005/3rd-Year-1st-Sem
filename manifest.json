@@ -642,6 +642,16 @@
         "capturedAt": 1789498755629,
         "byteLength": 8516604
       }
+    },
+    "3153d825-fee5-41e7-815d-2aca18fa45eb": {
+      "id": "3153d825-fee5-41e7-815d-2aca18fa45eb",
+      "name": "ELEC 3908 Lecture 2 [Smy Fall 2023]2.pptx-compressed",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "0d693f57-39fb-4864-a8db-8f816e5e5a70",
+      "tags": [],
+      "createdAt": 1789499339452,
+      "modifiedAt": 1789499365315
     }
   },
   "linksBySource": {
