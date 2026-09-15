@@ -584,7 +584,7 @@
       "parentId": "0d693f57-39fb-4864-a8db-8f816e5e5a70",
       "tags": [],
       "createdAt": 1789498098491,
-      "modifiedAt": 1789498676654
+      "modifiedAt": 1789498770954
     },
     "e4b66442-ef40-4cc9-81ca-f56fa6acb740": {
       "id": "e4b66442-ef40-4cc9-81ca-f56fa6acb740",
@@ -622,6 +622,25 @@
         "sourceRevision": "bd039201422c94662e942d0c6a3f8434b490b5ce042a4c54bfd19c360a353f3f",
         "capturedAt": 1789498675393,
         "byteLength": 1301675
+      }
+    },
+    "45a39dbf-8807-4ea2-aeec-60e9b95ad648": {
+      "id": "45a39dbf-8807-4ea2-aeec-60e9b95ad648",
+      "name": "ELEC 3908 Lecture 2 [Smy Fall 2023]2.pptx 2026-09-15T18:59:15.629Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
+      "tags": [],
+      "createdAt": 1789498755670,
+      "modifiedAt": 1789498770954,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "eba12ea7-3345-438c-9815-a93ff3bdb6af",
+        "sourceFileType": "mcanvas",
+        "sourceName": "ELEC 3908 Lecture 2 [Smy Fall 2023]2.pptx",
+        "sourceRevision": "548a681c4644aeae5ee723dfc4d0545993ca37d622767855c22615171590074c",
+        "capturedAt": 1789498755629,
+        "byteLength": 8516604
       }
     }
   },
