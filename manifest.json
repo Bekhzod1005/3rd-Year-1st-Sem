@@ -811,14 +811,21 @@
       "tool": "pen",
       "color": "#191c1e",
       "size": 3,
-      "inWheel": false
+      "inWheel": true
     },
     {
       "id": "b2a88b05-2870-4c9a-9fb4-33f21edb01a1",
       "tool": "pen",
       "color": "#000000",
       "size": 1,
-      "inWheel": false
+      "inWheel": true
+    },
+    {
+      "tool": "pen",
+      "color": "#ef4444",
+      "size": 2,
+      "inWheel": true,
+      "id": "12c2aa7f-5e5e-4cb7-8d3e-fc952a92f8ea"
     }
   ]
 }
