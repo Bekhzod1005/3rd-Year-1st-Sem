@@ -480,6 +480,16 @@
       "tags": [],
       "createdAt": 1789480966708,
       "modifiedAt": 1789480970920
+    },
+    "1b1dcb71-6257-4600-a415-ffd9be4c6c72": {
+      "id": "1b1dcb71-6257-4600-a415-ffd9be4c6c72",
+      "name": "lec2",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": null,
+      "tags": [],
+      "createdAt": 1789481185235,
+      "modifiedAt": 1789481193566
     }
   },
   "linksBySource": {
