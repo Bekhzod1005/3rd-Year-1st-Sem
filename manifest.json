@@ -718,6 +718,16 @@
       "tags": [],
       "createdAt": 1789502225317,
       "modifiedAt": 1789502233807
+    },
+    "07f14198-99c4-4690-871a-d2868abd294c": {
+      "id": "07f14198-99c4-4690-871a-d2868abd294c",
+      "name": "ELEC3500_Slides2-CMOS Circuits-AA2",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "cb58cfdd-a480-49d4-9070-110a56a5cc8a",
+      "tags": [],
+      "createdAt": 1789502244871,
+      "modifiedAt": 1789502266376
     }
   },
   "linksBySource": {
