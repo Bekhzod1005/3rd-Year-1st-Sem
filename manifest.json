@@ -575,6 +575,16 @@
       "tags": [],
       "createdAt": 1789497807601,
       "modifiedAt": 1789497814505
+    },
+    "eba12ea7-3345-438c-9815-a93ff3bdb6af": {
+      "id": "eba12ea7-3345-438c-9815-a93ff3bdb6af",
+      "name": "ELEC 3908 Lecture 2 [Smy Fall 2023]2.pptx",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "0d693f57-39fb-4864-a8db-8f816e5e5a70",
+      "tags": [],
+      "createdAt": 1789498098491,
+      "modifiedAt": 1789498104976
     }
   },
   "linksBySource": {
