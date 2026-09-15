@@ -585,6 +585,25 @@
       "tags": [],
       "createdAt": 1789498098491,
       "modifiedAt": 1789498175625
+    },
+    "e4b66442-ef40-4cc9-81ca-f56fa6acb740": {
+      "id": "e4b66442-ef40-4cc9-81ca-f56fa6acb740",
+      "name": "ELEC 3908 Lecture 2 [Smy Fall 2023]2.pptx 2026-09-15T18:48:39.320Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
+      "tags": [],
+      "createdAt": 1789498119396,
+      "modifiedAt": 1789498122150,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "eba12ea7-3345-438c-9815-a93ff3bdb6af",
+        "sourceFileType": "mcanvas",
+        "sourceName": "ELEC 3908 Lecture 2 [Smy Fall 2023]2.pptx",
+        "sourceRevision": "9cf6c8ab09140e0b4c46af2cef54578d367712b241140fb0cbb3860c542664cb",
+        "capturedAt": 1789498119320,
+        "byteLength": 8328763
+      }
     }
   },
   "linksBySource": {
