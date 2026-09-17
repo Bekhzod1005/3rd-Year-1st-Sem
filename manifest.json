@@ -727,7 +727,7 @@
       "parentId": "cb58cfdd-a480-49d4-9070-110a56a5cc8a",
       "tags": [],
       "createdAt": 1789502244871,
-      "modifiedAt": 1789676948383
+      "modifiedAt": 1789676978861
     },
     "b6399483-b942-495a-a228-c849778a23ca": {
       "id": "b6399483-b942-495a-a228-c849778a23ca",
@@ -1468,8 +1468,8 @@
     {
       "id": "8bf81ff1-5866-41d7-958d-5450058f95e6",
       "tool": "pen",
-      "color": "#191c1e",
-      "size": 2,
+      "color": "#000000",
+      "size": 4,
       "inWheel": true
     },
     {
