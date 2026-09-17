@@ -1167,7 +1167,26 @@
       "parentId": "cb58cfdd-a480-49d4-9070-110a56a5cc8a",
       "tags": [],
       "createdAt": 1789675603232,
-      "modifiedAt": 1789675628443
+      "modifiedAt": 1789675688529
+    },
+    "6b85b734-4be5-4a63-8f69-1e0a0a35e4ff": {
+      "id": "6b85b734-4be5-4a63-8f69-1e0a0a35e4ff",
+      "name": "ELEC3500_Slides3_FPGA EDA_AA2 2026-09-17T20:07:45.826Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
+      "tags": [],
+      "createdAt": 1789675665858,
+      "modifiedAt": 1789675688529,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "3eec1438-04da-4723-ab23-24fb69a8edfc",
+        "sourceFileType": "mcanvas",
+        "sourceName": "ELEC3500_Slides3_FPGA EDA_AA2",
+        "sourceRevision": "340e4792efb8d1fb5cde7ee30ecdf21fe5e62568d427434c99afe6f9e243e6bb",
+        "capturedAt": 1789675665826,
+        "byteLength": 2959898
+      }
     }
   },
   "linksBySource": {
