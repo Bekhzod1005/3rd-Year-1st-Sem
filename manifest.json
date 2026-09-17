@@ -1103,12 +1103,23 @@
     },
     "0862828e-e935-47b3-933c-59b6d0ea8ce7": {
       "id": "0862828e-e935-47b3-933c-59b6d0ea8ce7",
-      "name": "Unnamed Folder",
+      "name": "Fpga",
       "type": "folder",
       "parentId": null,
       "tags": [],
       "createdAt": 1789667663735,
-      "modifiedAt": 1789667663735
+      "modifiedAt": 1789667694814,
+      "color": "#ef4444"
+    },
+    "e596fe4c-7b3a-4dd0-869c-6ae0c8477007": {
+      "id": "e596fe4c-7b3a-4dd0-869c-6ae0c8477007",
+      "name": "Untitled Canvas",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "0862828e-e935-47b3-933c-59b6d0ea8ce7",
+      "tags": [],
+      "createdAt": 1789667696931,
+      "modifiedAt": 1789667708565
     }
   },
   "linksBySource": {
