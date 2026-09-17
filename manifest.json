@@ -1158,6 +1158,16 @@
         "capturedAt": 1789668317601,
         "byteLength": 804977
       }
+    },
+    "3eec1438-04da-4723-ab23-24fb69a8edfc": {
+      "id": "3eec1438-04da-4723-ab23-24fb69a8edfc",
+      "name": "ELEC3500_Slides3_FPGA EDA_AA2",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "cb58cfdd-a480-49d4-9070-110a56a5cc8a",
+      "tags": [],
+      "createdAt": 1789675603232,
+      "modifiedAt": 1789675628443
     }
   },
   "linksBySource": {
