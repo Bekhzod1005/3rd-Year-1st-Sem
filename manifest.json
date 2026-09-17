@@ -1004,7 +1004,7 @@
       "parentId": "2d310399-b97b-4c9c-ba9e-55db2e5b2962",
       "tags": [],
       "createdAt": 1789654386034,
-      "modifiedAt": 1789655735992
+      "modifiedAt": 1789656066074
     },
     "e47234d3-16e7-4633-bda6-07a9b1a28d50": {
       "id": "e47234d3-16e7-4633-bda6-07a9b1a28d50",
@@ -1042,6 +1042,25 @@
         "sourceRevision": "923a3438a592eb919bfb458bc03f736a55169d56bb8aece4fc8ad449c730d9cd",
         "capturedAt": 1789655156620,
         "byteLength": 994413
+      }
+    },
+    "8ab4ec64-3d58-46ea-98ae-8d35225f8f4a": {
+      "id": "8ab4ec64-3d58-46ea-98ae-8d35225f8f4a",
+      "name": "lec3 2026-09-17T14:40:36.935Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
+      "tags": [],
+      "createdAt": 1789656036977,
+      "modifiedAt": 1789656066074,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "afac58a5-12e0-4d98-aa82-8476c013988d",
+        "sourceFileType": "mcanvas",
+        "sourceName": "lec3",
+        "sourceRevision": "1c9f90274e5c5bccbbe623de45ec9eaf652c2ee4a6c044389c0b3cddb10b6141",
+        "capturedAt": 1789656036935,
+        "byteLength": 1148731
       }
     }
   },
