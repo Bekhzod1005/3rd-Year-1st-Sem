@@ -1100,6 +1100,15 @@
         "capturedAt": 1789657293695,
         "byteLength": 1567840
       }
+    },
+    "0862828e-e935-47b3-933c-59b6d0ea8ce7": {
+      "id": "0862828e-e935-47b3-933c-59b6d0ea8ce7",
+      "name": "Unnamed Folder",
+      "type": "folder",
+      "parentId": null,
+      "tags": [],
+      "createdAt": 1789667663735,
+      "modifiedAt": 1789667663735
     }
   },
   "linksBySource": {
