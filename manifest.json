@@ -1119,7 +1119,26 @@
       "parentId": "0862828e-e935-47b3-933c-59b6d0ea8ce7",
       "tags": [],
       "createdAt": 1789667696931,
-      "modifiedAt": 1789667708565
+      "modifiedAt": 1789667738551
+    },
+    "ed45a33a-160e-460f-b5e0-d66a7c86e769": {
+      "id": "ed45a33a-160e-460f-b5e0-d66a7c86e769",
+      "name": "Untitled Canvas 2026-09-17T17:55:11.237Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
+      "tags": [],
+      "createdAt": 1789667711445,
+      "modifiedAt": 1789667738551,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "e596fe4c-7b3a-4dd0-869c-6ae0c8477007",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Untitled Canvas",
+        "sourceRevision": "8ea2cf3e1cb2ce4708483770741d8af79453337c83c69b28471a669cb06a6f4b",
+        "capturedAt": 1789667711237,
+        "byteLength": 31
+      }
     }
   },
   "linksBySource": {
