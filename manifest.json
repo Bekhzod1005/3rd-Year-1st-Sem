@@ -1530,6 +1530,16 @@
         "capturedAt": 1790013912150,
         "byteLength": 1613162
       }
+    },
+    "0701ba9a-ea59-47cf-9ab8-464e3690ff9d": {
+      "id": "0701ba9a-ea59-47cf-9ab8-464e3690ff9d",
+      "name": "Note_3509_3_2025_copy",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "492516d5-cd32-40be-85de-19f7c69521f0",
+      "tags": [],
+      "createdAt": 1790021211931,
+      "modifiedAt": 1790021234685
     }
   },
   "linksBySource": {
