@@ -1393,10 +1393,10 @@
       "name": "Class 4",
       "type": "file",
       "fileType": "mcanvas",
-      "parentId": null,
+      "parentId": "d8241bf4-4c5e-4f0f-9fe1-37cde8fee18e",
       "tags": [],
       "createdAt": 1790010057219,
-      "modifiedAt": 1790039284398
+      "modifiedAt": 1790086271376
     },
     "4662b08c-0508-477d-b1ab-9d9c1b27c104": {
       "id": "4662b08c-0508-477d-b1ab-9d9c1b27c104",
@@ -1862,6 +1862,54 @@
         "sourceRevision": "e3799cf4c662b242713b5874e3440a4436cb2e1bab491f116608abc9b26ed677",
         "capturedAt": 1790041114323,
         "byteLength": 3929366
+      }
+    },
+    "01f15596-b9db-4f50-b3b8-c8c312fedd90": {
+      "id": "01f15596-b9db-4f50-b3b8-c8c312fedd90",
+      "name": "Class 4 2026-09-22T14:08:59.596Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
+      "tags": [],
+      "createdAt": 1790086139738,
+      "modifiedAt": 1790086271376,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "773e5a04-5ae5-4409-a3a0-3a531a048c17",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Class 4",
+        "sourceRevision": "96a22aa63d8f0c57ccb702c0a3330387b4182d4f88a85d5d77ed8dfb6b8afdd3",
+        "capturedAt": 1790086139596,
+        "byteLength": 1949911
+      }
+    },
+    "2536f039-70b0-4f4a-9d24-222de6c0b60e": {
+      "id": "2536f039-70b0-4f4a-9d24-222de6c0b60e",
+      "name": "lec4 (1)",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "2d310399-b97b-4c9c-ba9e-55db2e5b2962",
+      "tags": [],
+      "createdAt": 1790086162902,
+      "modifiedAt": 1790086271376
+    },
+    "9d72478f-6325-44ff-8165-7a234e69a027": {
+      "id": "9d72478f-6325-44ff-8165-7a234e69a027",
+      "name": "lec4 (1) 2026-09-22T14:11:02.118Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
+      "tags": [],
+      "createdAt": 1790086262161,
+      "modifiedAt": 1790086271376,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "2536f039-70b0-4f4a-9d24-222de6c0b60e",
+        "sourceFileType": "mcanvas",
+        "sourceName": "lec4 (1)",
+        "sourceRevision": "3be131442eef17951a92186184333c307262fd90de6af45e1b0b242bc3a87fdb",
+        "capturedAt": 1790086262118,
+        "byteLength": 784154
       }
     }
   },
