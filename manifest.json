@@ -727,7 +727,7 @@
       "parentId": "cb58cfdd-a480-49d4-9070-110a56a5cc8a",
       "tags": [],
       "createdAt": 1789502244871,
-      "modifiedAt": 1789858147356
+      "modifiedAt": 1790107549654
     },
     "b6399483-b942-495a-a228-c849778a23ca": {
       "id": "b6399483-b942-495a-a228-c849778a23ca",
@@ -1910,6 +1910,25 @@
         "sourceRevision": "3be131442eef17951a92186184333c307262fd90de6af45e1b0b242bc3a87fdb",
         "capturedAt": 1790086262118,
         "byteLength": 784154
+      }
+    },
+    "975c5c81-830e-4e28-9ac3-4387ca53a87a": {
+      "id": "975c5c81-830e-4e28-9ac3-4387ca53a87a",
+      "name": "ELEC3500_Slides2-CMOS Circuits-AA2 2026-09-22T20:05:28.664Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
+      "tags": [],
+      "createdAt": 1790107528733,
+      "modifiedAt": 1790107549654,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "07f14198-99c4-4690-871a-d2868abd294c",
+        "sourceFileType": "mcanvas",
+        "sourceName": "ELEC3500_Slides2-CMOS Circuits-AA2",
+        "sourceRevision": "5d7282949701ebc26f9e461820540a9c62992d8fc1adccf58012161201f76cd2",
+        "capturedAt": 1790107528664,
+        "byteLength": 6013917
       }
     }
   },
