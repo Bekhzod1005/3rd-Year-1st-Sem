@@ -1673,6 +1673,25 @@
         "capturedAt": 1790038047417,
         "byteLength": 2056908
       }
+    },
+    "560be822-38ec-455d-8a0d-cbc58d062a3a": {
+      "id": "560be822-38ec-455d-8a0d-cbc58d062a3a",
+      "name": "Class 4 2026-09-22T00:45:03.772Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
+      "tags": [],
+      "createdAt": 1790037903829,
+      "modifiedAt": 1790037904637,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "773e5a04-5ae5-4409-a3a0-3a531a048c17",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Class 4",
+        "sourceRevision": "65778e9d9a2794ea5b7ba4448afaae9fbbf0eddbebd95fc155b15713e72373b8",
+        "capturedAt": 1790037903772,
+        "byteLength": 1948273
+      }
     }
   },
   "linksBySource": {
