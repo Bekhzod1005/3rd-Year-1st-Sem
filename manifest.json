@@ -2149,6 +2149,16 @@
         "capturedAt": 1790181824172,
         "byteLength": 1678160
       }
+    },
+    "4b5b35f1-4b67-4ac8-84a5-9e003ca75882": {
+      "id": "4b5b35f1-4b67-4ac8-84a5-9e003ca75882",
+      "name": "Class 5",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "d8241bf4-4c5e-4f0f-9fe1-37cde8fee18e",
+      "tags": [],
+      "createdAt": 1790183640912,
+      "modifiedAt": 1790183657111
     }
   },
   "linksBySource": {
