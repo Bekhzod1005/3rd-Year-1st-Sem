@@ -2168,7 +2168,26 @@
       "parentId": "d8241bf4-4c5e-4f0f-9fe1-37cde8fee18e",
       "tags": [],
       "createdAt": 1790183739996,
-      "modifiedAt": 1790183748601
+      "modifiedAt": 1790183777081
+    },
+    "fab7b072-ffc9-44c0-8450-e6cf7eb781da": {
+      "id": "fab7b072-ffc9-44c0-8450-e6cf7eb781da",
+      "name": "Course Equation Sheet 2026-09-23T17:15:50.422Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
+      "tags": [],
+      "createdAt": 1790183750631,
+      "modifiedAt": 1790183777081,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "941710f1-459d-4b4f-98c1-996c959529dc",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Course Equation Sheet",
+        "sourceRevision": "616dca478f278522af9eb04d537fc231fe0e5fc51d69b5db433d6d19f09a7b7f",
+        "capturedAt": 1790183750422,
+        "byteLength": 289020
+      }
     }
   },
   "linksBySource": {
