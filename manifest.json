@@ -727,7 +727,7 @@
       "parentId": "cb58cfdd-a480-49d4-9070-110a56a5cc8a",
       "tags": [],
       "createdAt": 1789502244871,
-      "modifiedAt": 1790177423570
+      "modifiedAt": 1790178876610
     },
     "b6399483-b942-495a-a228-c849778a23ca": {
       "id": "b6399483-b942-495a-a228-c849778a23ca",
@@ -2034,7 +2034,7 @@
       "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
       "tags": [],
       "createdAt": 1790111681957,
-      "modifiedAt": 1790177423570,
+      "modifiedAt": 1790178876610,
       "system": {
         "kind": "file-version",
         "sourceFileId": "07f14198-99c4-4690-871a-d2868abd294c",
@@ -2053,7 +2053,7 @@
       "parentId": "0862828e-e935-47b3-933c-59b6d0ea8ce7",
       "tags": [],
       "createdAt": 1790177073307,
-      "modifiedAt": 1790177423570
+      "modifiedAt": 1790178876610
     },
     "061c2548-f6a9-4dab-bc14-f299cc19dc2a": {
       "id": "061c2548-f6a9-4dab-bc14-f299cc19dc2a",
@@ -2063,7 +2063,7 @@
       "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
       "tags": [],
       "createdAt": 1790177166515,
-      "modifiedAt": 1790177423570,
+      "modifiedAt": 1790178876610,
       "system": {
         "kind": "file-version",
         "sourceFileId": "077f6366-fa0b-4315-85ae-a4f6b548cd6d",
@@ -2072,6 +2072,25 @@
         "sourceRevision": "0a7c462e8f164b43a4005a76844d6005809ac9c03eed5ad59f05d6dc1afe73d4",
         "capturedAt": 1790177166278,
         "byteLength": 31
+      }
+    },
+    "e40622d0-3f1d-47df-8f5e-ef95365190c1": {
+      "id": "e40622d0-3f1d-47df-8f5e-ef95365190c1",
+      "name": "FFT 2026-09-23T15:37:48.212Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
+      "tags": [],
+      "createdAt": 1790177868421,
+      "modifiedAt": 1790178876610,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "077f6366-fa0b-4315-85ae-a4f6b548cd6d",
+        "sourceFileType": "mcanvas",
+        "sourceName": "FFT",
+        "sourceRevision": "f28d455cfd76c0509c2ea34492c41823bff6f1178c22d257919e2d1dd6b23148",
+        "capturedAt": 1790177868212,
+        "byteLength": 301501
       }
     }
   },
