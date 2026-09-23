@@ -1539,7 +1539,7 @@
       "parentId": "492516d5-cd32-40be-85de-19f7c69521f0",
       "tags": [],
       "createdAt": 1790021211931,
-      "modifiedAt": 1790197668529
+      "modifiedAt": 1790198359079
     },
     "5235848a-f316-4d97-b3c4-1fbf55c5fe0e": {
       "id": "5235848a-f316-4d97-b3c4-1fbf55c5fe0e",
@@ -2415,6 +2415,25 @@
         "sourceRevision": "6bc13c3bdb89a738e02a64a86743dcd4ccee4af9b1f0c3f052d7ade59fda50f6",
         "capturedAt": 1790197426684,
         "byteLength": 809864
+      }
+    },
+    "2801a6a9-b114-48a3-805f-2ab0b4cd605c": {
+      "id": "2801a6a9-b114-48a3-805f-2ab0b4cd605c",
+      "name": "Note_3509_3_2025_copy 2026-09-23T21:18:57.659Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
+      "tags": [],
+      "createdAt": 1790198337729,
+      "modifiedAt": 1790198359079,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "0701ba9a-ea59-47cf-9ab8-464e3690ff9d",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Note_3509_3_2025_copy",
+        "sourceRevision": "94d4aaa2fd2dcbfaa421d1198f1429d4ae187b083f7a3099d450c751ee0476ac",
+        "capturedAt": 1790198337659,
+        "byteLength": 919469
       }
     }
   },
