@@ -2159,6 +2159,16 @@
       "tags": [],
       "createdAt": 1790183640912,
       "modifiedAt": 1790183657111
+    },
+    "941710f1-459d-4b4f-98c1-996c959529dc": {
+      "id": "941710f1-459d-4b4f-98c1-996c959529dc",
+      "name": "Course Equation Sheet",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "d8241bf4-4c5e-4f0f-9fe1-37cde8fee18e",
+      "tags": [],
+      "createdAt": 1790183739996,
+      "modifiedAt": 1790183748601
     }
   },
   "linksBySource": {
