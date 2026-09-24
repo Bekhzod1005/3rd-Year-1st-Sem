@@ -2834,6 +2834,16 @@
         "capturedAt": 1790261842012,
         "byteLength": 2097922
       }
+    },
+    "36fdced2-19d6-4c72-b7a2-e207689e220a": {
+      "id": "36fdced2-19d6-4c72-b7a2-e207689e220a",
+      "name": "Week 3-lecture 1-updated-with examples",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "0d693f57-39fb-4864-a8db-8f816e5e5a70",
+      "tags": [],
+      "createdAt": 1790275006614,
+      "modifiedAt": 1790275028531
     }
   },
   "linksBySource": {
