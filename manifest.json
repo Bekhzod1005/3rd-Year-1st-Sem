@@ -2796,6 +2796,25 @@
         "capturedAt": 1790260598654,
         "byteLength": 1811446
       }
+    },
+    "493d07fd-a9f6-481c-af61-4b8c82f990ff": {
+      "id": "493d07fd-a9f6-481c-af61-4b8c82f990ff",
+      "name": "lec3 2026-09-24T14:46:46.175Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
+      "tags": [],
+      "createdAt": 1790261206229,
+      "modifiedAt": 1790261206902,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "afac58a5-12e0-4d98-aa82-8476c013988d",
+        "sourceFileType": "mcanvas",
+        "sourceName": "lec3",
+        "sourceRevision": "6595873f4ec68ac6ba4f5e52ce472e9c1bc20170f8ca289d706c1ef6423036eb",
+        "capturedAt": 1790261206175,
+        "byteLength": 1861158
+      }
     }
   },
   "linksBySource": {
