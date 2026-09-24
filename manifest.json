@@ -2053,7 +2053,7 @@
       "parentId": "0862828e-e935-47b3-933c-59b6d0ea8ce7",
       "tags": [],
       "createdAt": 1790177073307,
-      "modifiedAt": 1790224006719
+      "modifiedAt": 1790224400179
     },
     "061c2548-f6a9-4dab-bc14-f299cc19dc2a": {
       "id": "061c2548-f6a9-4dab-bc14-f299cc19dc2a",
@@ -2605,6 +2605,25 @@
         "sourceRevision": "d714b12ec1d86adc17b4c0607bd67afcd0ab30009e1c78944364945e198f53c5",
         "capturedAt": 1790223792656,
         "byteLength": 3198810
+      }
+    },
+    "4e602e69-5c0a-4ac5-acc2-e9b8b1d17387": {
+      "id": "4e602e69-5c0a-4ac5-acc2-e9b8b1d17387",
+      "name": "FFT 2026-09-24T04:33:15.040Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
+      "tags": [],
+      "createdAt": 1790224395103,
+      "modifiedAt": 1790224400179,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "077f6366-fa0b-4315-85ae-a4f6b548cd6d",
+        "sourceFileType": "mcanvas",
+        "sourceName": "FFT",
+        "sourceRevision": "3e09ccc3b3d42ddec0bda2f419a17eb687d64a9ebba522cec688ba0d6ab29ac0",
+        "capturedAt": 1790224395040,
+        "byteLength": 3429000
       }
     }
   },
