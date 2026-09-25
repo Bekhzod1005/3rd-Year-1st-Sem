@@ -3005,7 +3005,26 @@
       "parentId": "5b09ce1e-365b-4677-ab19-bf4aa715073b",
       "tags": [],
       "createdAt": 1790350286855,
-      "modifiedAt": 1790350386995
+      "modifiedAt": 1790351347036
+    },
+    "b8198716-be08-4a6e-bb41-b74b1fb1533e": {
+      "id": "b8198716-be08-4a6e-bb41-b74b1fb1533e",
+      "name": "lab2 2026-09-25T15:48:58.039Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
+      "tags": [],
+      "createdAt": 1790351338064,
+      "modifiedAt": 1790351347036,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "b0b67786-af96-4b92-bce1-a39099d8bf1c",
+        "sourceFileType": "mcanvas",
+        "sourceName": "lab2",
+        "sourceRevision": "94b9d1c99232f1e7b76914aa2ec3ae88f50b7789bd1521dcc23362dca8f168a7",
+        "capturedAt": 1790351338039,
+        "byteLength": 660807
+      }
     }
   },
   "linksBySource": {
