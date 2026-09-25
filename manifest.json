@@ -2996,6 +2996,16 @@
         "capturedAt": 1790284646398,
         "byteLength": 8191832
       }
+    },
+    "b0b67786-af96-4b92-bce1-a39099d8bf1c": {
+      "id": "b0b67786-af96-4b92-bce1-a39099d8bf1c",
+      "name": "lab2",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "5b09ce1e-365b-4677-ab19-bf4aa715073b",
+      "tags": [],
+      "createdAt": 1790350286855,
+      "modifiedAt": 1790350386995
     }
   },
   "linksBySource": {
