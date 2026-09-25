@@ -3005,7 +3005,7 @@
       "parentId": "5b09ce1e-365b-4677-ab19-bf4aa715073b",
       "tags": [],
       "createdAt": 1790350286855,
-      "modifiedAt": 1790351377743
+      "modifiedAt": 1790353117247
     },
     "b8198716-be08-4a6e-bb41-b74b1fb1533e": {
       "id": "b8198716-be08-4a6e-bb41-b74b1fb1533e",
@@ -3034,7 +3034,7 @@
       "parentId": "5b09ce1e-365b-4677-ab19-bf4aa715073b",
       "tags": [],
       "createdAt": 1790351378335,
-      "modifiedAt": 1790353087159
+      "modifiedAt": 1790353117247
     },
     "865bfc33-7b27-40c9-ab33-b3c48d66dab0": {
       "id": "865bfc33-7b27-40c9-ab33-b3c48d66dab0",
@@ -3053,6 +3053,25 @@
         "sourceRevision": "850f617bf6ad2a3e2d02d3ba3455a10ce32ae533ae16bfa33f324c461e456fb7",
         "capturedAt": 1790352991166,
         "byteLength": 370
+      }
+    },
+    "20a02a46-816c-4a44-a189-363761d7ed9b": {
+      "id": "20a02a46-816c-4a44-a189-363761d7ed9b",
+      "name": "lab2 2026-09-25T16:18:14.747Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
+      "tags": [],
+      "createdAt": 1790353094772,
+      "modifiedAt": 1790353117247,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "b0b67786-af96-4b92-bce1-a39099d8bf1c",
+        "sourceFileType": "mcanvas",
+        "sourceName": "lab2",
+        "sourceRevision": "429d7595af6a4f5a729285e1da6a68d898c51b2178b20c7fbdd6edf131d5b8b3",
+        "capturedAt": 1790353094747,
+        "byteLength": 668186
       }
     }
   },
