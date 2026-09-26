@@ -3099,9 +3099,13 @@
       "type": "file",
       "fileType": "mcanvas",
       "parentId": "492516d5-cd32-40be-85de-19f7c69521f0",
-      "tags": [],
+      "tags": [
+        "prelab",
+        "ELEC3509",
+        "Electronics 2"
+      ],
       "createdAt": 1790440778472,
-      "modifiedAt": 1790453839554
+      "modifiedAt": 1790454047194
     },
     "99e754c3-b861-49e7-94fa-efd1bd664a94": {
       "id": "99e754c3-b861-49e7-94fa-efd1bd664a94",
