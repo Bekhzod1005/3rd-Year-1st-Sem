@@ -3472,7 +3472,10 @@
     "text": [],
     "folder": []
   },
-  "tagRegistry": [],
+  "tagRegistry": [
+    "prelab",
+    "ELEC3509"
+  ],
   "penPresets": [
     {
       "id": "870841d1-6ca6-4385-b652-a9c291380ee0",
