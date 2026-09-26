@@ -3105,7 +3105,7 @@
         "Electronics 2"
       ],
       "createdAt": 1790440778472,
-      "modifiedAt": 1790454047194
+      "modifiedAt": 1790454288090
     },
     "99e754c3-b861-49e7-94fa-efd1bd664a94": {
       "id": "99e754c3-b861-49e7-94fa-efd1bd664a94",
@@ -3238,6 +3238,25 @@
         "sourceRevision": "cdb0c22217aff006c91de1701710ae4c99a47caf31b9a611a066f5d8164dbd84",
         "capturedAt": 1790453313657,
         "byteLength": 1276022
+      }
+    },
+    "05858bb2-43d7-48d3-9e81-a7ab7f941cf1": {
+      "id": "05858bb2-43d7-48d3-9e81-a7ab7f941cf1",
+      "name": "Lab1 day 1 2026-09-26T20:18:54.800Z",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "5b71ce6d-2c3e-40f8-addd-618d8baa2388",
+      "tags": [],
+      "createdAt": 1790453934898,
+      "modifiedAt": 1790454288090,
+      "system": {
+        "kind": "file-version",
+        "sourceFileId": "600ebb69-4e05-4eb6-867e-c8e6b0214833",
+        "sourceFileType": "mcanvas",
+        "sourceName": "Lab1 day 1",
+        "sourceRevision": "1f8701753b338f9207d5db7c864603895e01720c4a2978333b0faf628581abae",
+        "capturedAt": 1790453934800,
+        "byteLength": 1323877
       }
     }
   },
